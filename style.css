@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&family=Piazzolla:opsz,wght@8..30,200;8..30,300;8..30,400;8..30,900&family=Poppins&display=swap');
+
+.font-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.img{
+    width: 250px;
+    height: 350px;
+    background-color: rgb(224,224,224);
+}
